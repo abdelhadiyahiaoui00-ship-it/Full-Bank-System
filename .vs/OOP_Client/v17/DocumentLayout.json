@@ -7,9 +7,6 @@
       "RelativeMoniker": "D:0:0:{A35C1349-7BBC-4BE6-973A-A905967DDA52}|OOP_Client\\OOP_Client.vcxproj|solutionrelative:OOP_Client\\clsDeleteClientScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\LENOVO\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A35C1349-7BBC-4BE6-973A-A905967DDA52}|OOP_Client\\OOP_Client.vcxproj|C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsDespositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A35C1349-7BBC-4BE6-973A-A905967DDA52}|OOP_Client\\OOP_Client.vcxproj|solutionrelative:OOP_Client\\clsDespositScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -161,7 +158,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 199,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -173,33 +170,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": ".gitignore",
-              "DocumentMoniker": "C:\\Users\\LENOVO\\.gitignore",
-              "RelativeDocumentMoniker": "..\\..\\..\\.gitignore",
-              "ToolTip": "C:\\Users\\LENOVO\\.gitignore",
-              "RelativeToolTip": "..\\..\\..\\.gitignore",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAcwBkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-10-24T21:27:43.168Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "clsDeleteClientScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsDeleteClientScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsDeleteClientScreen.h",
               "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsDeleteClientScreen.h",
               "RelativeToolTip": "OOP_Client\\clsDeleteClientScreen.h",
-              "ViewState": "AgIAAEIAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-09-12T11:16:43.949Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "clsScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsScreen.h",
@@ -211,7 +195,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 7,
               "Title": "clsManageUsersScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsManageUsersScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsManageUsersScreen.h",
@@ -223,7 +207,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "clsUser.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsUser.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsUser.h",
@@ -235,7 +219,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "clsBankClient.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsBankClient.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsBankClient.h",
@@ -247,7 +231,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "clsDespositScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsDespositScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsDespositScreen.h",
@@ -259,7 +243,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "clsFindClientScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsFindClientScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsFindClientScreen.h",
@@ -271,7 +255,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "clsCurrencyCalculatorScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsCurrencyCalculatorScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsCurrencyCalculatorScreen.h",
@@ -283,7 +267,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 5,
               "Title": "clsCurrency.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsCurrency.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsCurrency.h",
@@ -295,7 +279,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 9,
               "Title": "Global.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\Global.h",
               "RelativeDocumentMoniker": "OOP_Client\\Global.h",
@@ -307,7 +291,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "clsLoginRegisterScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsLoginRegisterScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsLoginRegisterScreen.h",
@@ -319,19 +303,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 11,
               "Title": "resource.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\resource.h",
               "RelativeDocumentMoniker": "OOP_Client\\resource.h",
               "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\resource.h",
               "RelativeToolTip": "OOP_Client\\resource.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-01T08:38:23.137Z"
+              "WhenOpened": "2024-10-01T08:38:23.137Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 12,
               "Title": "clsWithdrawScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsWithdrawScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsWithdrawScreen.h",
@@ -343,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 13,
               "Title": "clsTransferLogScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsTransferLogScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsTransferLogScreen.h",
@@ -355,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 14,
               "Title": "clsTransferScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsTransferScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsTransferScreen.h",
@@ -367,7 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 15,
               "Title": "clsUpdateUserScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsUpdateUserScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsUpdateUserScreen.h",
@@ -379,7 +364,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 16,
               "Title": "clsUpdateCLientScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsUpdateCLientScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsUpdateCLientScreen.h",
@@ -391,7 +376,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 17,
               "Title": "clsUpdateCurrencyRateScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsUpdateCurrencyRateScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsUpdateCurrencyRateScreen.h",
@@ -403,7 +388,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 18,
               "Title": "clsListUsersScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsListUsersScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsListUsersScreen.h",
@@ -415,7 +400,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 19,
               "Title": "clsFindUserScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsFindUserScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsFindUserScreen.h",
@@ -427,7 +412,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 20,
               "Title": "clsDeleteUsersScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsDeleteUsersScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsDeleteUsersScreen.h",
@@ -439,7 +424,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 21,
               "Title": "clsCurrencyScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsCurrencyScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsCurrencyScreen.h",
@@ -451,7 +436,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "clsUtil.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsUtil.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsUtil.h",
@@ -463,7 +448,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 23,
               "Title": "clsString.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsString.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsString.h",
@@ -475,7 +460,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 24,
               "Title": "clsInputValidate.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsInputValidate.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsInputValidate.h",
@@ -487,7 +472,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 25,
               "Title": "clsDate.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsDate.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsDate.h",
@@ -499,7 +484,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 26,
               "Title": "clsCurrenciesListScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsCurrenciesListScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsCurrenciesListScreen.h",
@@ -511,7 +496,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 27,
               "Title": "clsMainScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsMainScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsMainScreen.h",
@@ -523,7 +508,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 28,
               "Title": "clsFindCurrencyScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsFindCurrencyScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsFindCurrencyScreen.h",
@@ -535,7 +520,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 29,
               "Title": "clsTransactionScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsTransactionScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsTransactionScreen.h",
@@ -547,7 +532,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 30,
               "Title": "clsPerson.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsPerson.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsPerson.h",
@@ -559,7 +544,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 31,
               "Title": "clsAddNewUsersScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsAddNewUsersScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsAddNewUsersScreen.h",
@@ -571,7 +556,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 32,
               "Title": "clsClientListScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsClientListScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsClientListScreen.h",
@@ -583,7 +568,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 33,
               "Title": "clsLoginScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsLoginScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsLoginScreen.h",
@@ -595,7 +580,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 34,
               "Title": "OOP_Client.cpp",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\OOP_Client.cpp",
               "RelativeDocumentMoniker": "OOP_Client\\OOP_Client.cpp",
@@ -607,7 +592,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 35,
               "Title": "clsAddNewClientScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsAddNewClientScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsAddNewClientScreen.h",
@@ -619,7 +604,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "clsTotalBalancesScreen.h",
               "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\OOP_Client\\OOP_Client\\clsTotalBalancesScreen.h",
               "RelativeDocumentMoniker": "OOP_Client\\clsTotalBalancesScreen.h",
