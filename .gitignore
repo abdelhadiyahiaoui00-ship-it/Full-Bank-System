@@ -361,3 +361,37 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+
+# Visual Studio files
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.suo
+*.sln.docstates
+*.sdf
+*.ipch
+
+# Build outputs
+*.exe
+*.dll
+*.lib
+*.pdb
+*.obj
+*.ilk
+
+# Specific files to ignore
+/OOP_Client.aps
+/OOP_Client.rc
+/resource
+/Currencies
+/Clients
+/TransferLog
+/LoginRegister
+/0
+/Screens/
+
+# File types to ignore
+*.aps
+*.rc
